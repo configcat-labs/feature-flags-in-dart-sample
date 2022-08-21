@@ -21,12 +21,12 @@ Future<void> main() async {
   // If the flag is switched on
   if (canShowThumbnailConverter) {
 
-    // Show the thumbnailConverterElement
+    // Show the thumbnailConverterElement by removing the hidden attribute
     thumbnailConverterElement.hidden = false;
 
   } else {
 
-    // How the featureNotAvailableElement
+    // Show the featureNotAvailableElement by removing the hidden attribute
     featureNotAvailableElement.hidden = false;
   }
 }
