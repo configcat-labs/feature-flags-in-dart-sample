@@ -6,17 +6,29 @@
 
 - A Dart compatible IDE/Editor - eg. Visual Studio Code. A list of supported IDEs can be found [here](https://dart.dev/tools#ides-and-editors) 
 
-## Running the app (WIP)
+### Running the sample app
 
-- Clone this repo
+- Clone the repository
+- Run the following to build and serve the app:
 
-- Run the following command to build and serve the app:
-
-```sh
+```bash
 webdev serve
 ```
 
-- You can view the app in your browser by visiting [http://localhost:8080/](http://localhost:8080/)
+- You can view the app in your browser by visiting
 
+```
+[http://localhost:8080/](http://localhost:8080/)
+```
+
+- Here is what It should look like:
+
+<!-- TODO: Add screenshot of sample app -->
+
+## How it works
+
+The thumbnail converter form shown above is the new feature to be rolled. By creating a feature flag and connecting it to this component we can enable or disable it by toggling its feature flag.
 
 ## Stay in the loop
+
+Stay on top of the latest posts and announcements from ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
