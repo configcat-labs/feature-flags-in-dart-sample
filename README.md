@@ -1,4 +1,6 @@
-# feature-flags-in-dart-sample
+# Feature flags in dart sample
+
+A companion repo for **How to use feature flags in Dart** originally published on [ConfigCat's blog](TODO: Add link to published article).
 
 ## Pre-requisites
 
@@ -9,17 +11,13 @@
 ### Running the sample app
 
 - Clone the repository
-- Run the following to build and serve the app:
+- Run the following command to build and serve the app:
 
 ```bash
 webdev serve
 ```
 
-- You can view the app in your browser by visiting
-
-```
-[http://localhost:8080/](http://localhost:8080/)
-```
+- You can view the app in your browser by visiting [http://localhost:8080/](http://localhost:8080/)
 
 - Here is what It should look like:
 
@@ -28,6 +26,10 @@ webdev serve
 ## How it works
 
 The thumbnail converter form shown above is the new feature to be rolled. By creating a feature flag and connecting it to this component we can enable or disable it by toggling its feature flag.
+
+### When the feature flag is turned off...
+
+<!-- TODO: Snapshot of sample app with the feature flag turned off -->
 
 ## Stay in the loop
 
