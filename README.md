@@ -25,7 +25,7 @@ webdev serve
 
 ## How it works
 
-The thumbnail converter form shown above is the new feature to be rolled. By creating a feature flag and connecting it to this component we can enable or disable it by toggling its feature flag.
+Imagine the thumbnail converter form shown above as the new feature to be rolled out. Let’s first create a feature flag then connect this component to it so we can enable or disable the component by toggling its feature flag.
 
 ### When the feature flag is turned off...
 
