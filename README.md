@@ -17,19 +17,19 @@ A companion repo for **How to use feature flags in Dart** originally published o
 webdev serve
 ```
 
-- You can view the app in your browser by visiting [http://localhost:8080/](http://localhost:8080/)
+- You can view the app in your browser by visiting [http://localhost:8080/](http://localhost:8080/).
 
-- Here is what It should look like:
+- Here is what it should look like:
 
-<!-- TODO: Add screenshot of sample app -->
+![Screenshot of the sample app - feature flag turned on](https://user-images.githubusercontent.com/74829200/185908082-a82ee69b-f642-4f6c-9b66-007b87d2a5e9.png)
 
 ## How it works
 
-Imagine the thumbnail converter form shown above as the new feature to be rolled out. Let’s first create a feature flag then connect this component to it so we can enable or disable the component by toggling its feature flag.
+The thumbnail converter form shown above is the new feature to be rolled. By creating a feature flag and connecting it to this component we can enable or disable it by toggling its feature flag.
 
 ### When the feature flag is turned off...
 
-<!-- TODO: Snapshot of sample app with the feature flag turned off -->
+![Screenshot of the sample app feature flag turned off](https://user-images.githubusercontent.com/74829200/185908218-fe400e5b-4704-4c51-9c7f-5ff49a4123f6.png)
 
 ## Stay in the loop
 
