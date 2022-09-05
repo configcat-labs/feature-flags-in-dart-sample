@@ -37,7 +37,6 @@ webdev serve
 
 Useful links to technical resources.
 
-Example:
 - [Dart Documentation](https://dart.dev/web) - learn about Dart features and API.
 
 [**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/)
