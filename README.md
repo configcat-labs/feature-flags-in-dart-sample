@@ -31,7 +31,7 @@ Think of the thumbnail converter component as the new feature to be rolled out. 
 webdev serve
 ```
 
-- You can view the app in your browser by visiting [http://localhost:8080/](http://localhost:8080/)
+- You can view the app in your browser by visiting [http://localhost:8080/](http://localhost:8080/).
 
 ## Learn more
 
